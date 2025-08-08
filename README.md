@@ -84,7 +84,7 @@ A key component is the use of **dynamic trailing stops** to limit downside risk 
 ## 🛠 How to Run
 1. **Clone this repository**  
 ```bash
-git clone https://github.com/Mkhan2317/Intraday-Momentum-SPY.git
+git clone https://github.com/Mkhan2317/SPY-Momentum-Alpha-Backtesting-2-Years-of-Free-Polygon-Data-
 cd Intraday-Momentum-SPY
 ````
 
